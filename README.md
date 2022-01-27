@@ -1,1 +1,1 @@
-# Multivariate-normality 
+# Multivariate normality 
